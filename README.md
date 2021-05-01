@@ -2,7 +2,8 @@
 - 👀 I’m interested in working as Java developer
 - 🌱 I’m currently learning Java programming
 - 💞️ I’m looking to collaborate on ... i don't know yet
-- 📫 How to reach me: at LinkedIn - www.linkedin.com/in/tomasz-wołyniec
+- 📫 How to reach me: at LinkedIn - www.linkedin.com/in/tomasz-wolyniec
+- 
 
 <!---
 tomaszeq75/tomaszeq75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
